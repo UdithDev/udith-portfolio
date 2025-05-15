@@ -1,7 +1,7 @@
 import HeroSection from "./sections/HeroSection"
 import AboutSection from "./sections/AboutSection"
 import ProjectSection from "./sections/ProjectSection"
-import ServicerSection from "./sections/ServicerSection"
+import ServicerSection from "./sections/ServiceSection"
 import ContactSection from "./sections/ContactSection"
 export default function Home() {
   return (
