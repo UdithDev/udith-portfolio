@@ -1,7 +1,12 @@
+import {motion} from 'framer-motion';
 export default function About(){
     return (
-        <div>
-            About
-        </div>
+        <section id='about' className='py-20'>
+            <div>
+                <motion.div>
+
+                </motion.div>
+            </div>
+        </section>
     )
 }
