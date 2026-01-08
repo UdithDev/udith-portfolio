@@ -81,7 +81,7 @@ export default function Contact() {
                       href="mailto:your.email@example.com"
                       className="text-gray-300 hover:text-blue-400 transition-colors"
                     >
-                      your.email@example.com
+                      daveudith@gmail.com
                     </a>
                   </div>
                 </div>
@@ -96,7 +96,7 @@ export default function Contact() {
                       href="tel:+15551234567"
                       className="text-gray-300 hover:text-blue-400 transition-colors"
                     >
-                      +1 (555) 123-4567
+                      +94 (078) 564-8605
                     </a>
                   </div>
                 </div>
@@ -107,7 +107,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-1">Location</h4>
-                    <p className="text-gray-300">San Francisco, California</p>
+                    <p className="text-gray-300">Kalutara North , Western</p>
                   </div>
                 </div>
               </div>
