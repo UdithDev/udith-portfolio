@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Mail, MapPin, Phone, GitHub, Linkedin, Twitter } from "lucide-react";
+import { Mail, MapPin, Phone, Github, Linkedin, Twitter } from "lucide-react";
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -124,7 +124,7 @@ export default function Contact() {
                     className="bg-gray-700 p-3 rounded-full text-blue-400 hover:bg-blue-600 hover:text-white transition-all duration-300 transform hover:scale-110"
                     aria-label="GitHub"
                   >
-                    <GitHub size={20} />
+                    <Github size={20} />
                   </a>
                   <a
                     href="https://linkedin.com"
